@@ -1,0 +1,296 @@
+Regional Pokemon Coordinates
+
+Updated for June 19, 2022
+
+https://www.reddit.com/r/PoGoAndroidSpoofing
+
+Gen 1:
+
+>> Tauros - North America
+
+  37.808966, ‎-122.410153 (San Francisco, California, USA)
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Mr Mime - Europe
+
+  41.662211,-0.894182 (Zaragoza, Spain)
+
+  47.528884,19.049640 (Margaret Island, Budapest, Hungary)
+
+>> Kangaskhan - Australia
+
+  -33.863709, 151.215556 (Sydney, Australia)
+
+  https://sydneypogomap.com/
+
+>> Farfetch’d - Asia
+
+  35.691140, 139.689187 (Tokyo, Japan)
+
+Gen 2:
+
+>> Heracross - Central/South America
+
+  28.418727 -81.581194 (Orlando, Florida USA)
+
+  -23.549616,-46.655418 (Sao Paulo, Brazil)
+
+>> Corsola - The Tropics along the equator 
+
+  28.1292, -15.4515 (Las Canteras Beach, Spain)
+
+  28.418727, -81.581194 (Orlando,Florida USA)
+
+Gen 3:
+
+>> Torkoal - India/South Asia 
+
+  28.632956, 77.219543 (New Delhi, India)
+
+>> Zangoose - Currently Europe, Asia, and Australia  
+
+  41.662211,-0.894182 (Zaragoza, Spain)
+
+  47.528884,19.049640 (Margaret Island, Budapest, Hungary)
+
+>> Seviper - Currently North America, South America, and Africa
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Solrock - Currently North America, South America, and Africa
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Lunatone - Currently Europe, Asia and Australia
+
+  https://sgpokemap.com or https://sydneypogomap.com/
+
+>> Relicanth - New Zealand and surrounding areas
+
+  -36.843223, 174.762305 (Auckland, New Zealand)
+
+  Spawns near the water.
+
+>> Illumise - Currently North America, South America, and Africa
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Volbeat - Currently Europe, Asia, and Australia 
+
+  https://sgpokemap.com or https://sydneypogomap.com/
+
+>> Tropius - Africa
+
+  -33.925692, 18.421586 (Cape Town, South Africa)
+
+  28.1292, -15.4515 (Las Canteras Beach, Spain)
+
+  28.489400, -16.316166 (San Cristobal de La Laguna, Spain)
+
+Gen 4:
+
+>> Mime Jr. (baby) - Europe
+
+  Hatches from 5 km eggs from Europe.
+
+  41.662211,-0.894182 (Zaragoza, Spain)
+
+  47.528884,19.049640 (Margaret Island, Budapest, Hungary)
+
+>> Pachirisu - Alaska/Canada/Russia
+
+  61.216768, -149.892350 (Anchorage, Alaska, USA)
+
+  53.544809, -113.494200 (Edmonton, AB, Canada)
+
+  Maybe https://vanpokemap.com/
+
+>> Shellos (blue) - East of the Meridian Line
+
+  https://sgpokemap.com or https://sydneypogomap.com/
+
+>> Shellos (pink) - West of Meridian Line
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Chatot - Southern Hemisphere
+
+  -41.284026, 174.776462 (Wellington, New Zealand)
+
+  https://sydneypogomap.com/
+
+>> Carnivine - Southeast U.S
+
+  28.418727, -81.581194 (Orlando, Florida, USA
+
+  35.777702, -78.642796 (Raleigh, North Carolina, USA)
+
+>> Legendary Lake Trio:
+
+  Uxie - North & South America, and Greenland
+
+  Mesprit - Europe, Middle-East, Africa, and India
+
+  Azelf - Asia Pacific
+
+Gen 5:
+
+>> Pansage (green)– Asia Pacific
+
+  https://sgpokemap.com
+
+>> Pansear (red) – Europe, Middle East, Africa, and India
+
+  41.662211,-0.894182 (Zaragoza, Spain)
+
+>> Panpour (blue) – Americas and Greenland
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Heatmor – Western hemisphere
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Durant – Eastern hemisphere
+
+  https://sgpokemap.com or https://sydneypogomap.com/
+
+>> Sigilyph – Egypt
+
+  37.982690, 23.725656 (Athens, Greece)
+
+  32.084063, 34.782007 (Tel Aviv-Yafo, Israel)
+
+>> Throh – North America, South America, and Africa
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Sawk – Europe, Asia, and Oceania
+
+  https://sgpokemap.com or https://sydneypogomap.com/
+
+>> Basculin (Red Stripe) – Eastern Hemisphere
+
+  https://sgpokemap.com or https://sydneypogomap.com/
+
+>> Basculin (Blue Stripe) – Western Hemisphere
+
+  https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Maractus – Central America, South America, and the Caribbean
+
+  -23.549616,-46.655418 (Sao Paulo, Brazil)
+
+  -22.908574, -43.185470 (Rio de Janeiro, Brazil)
+
+>> Bouffalant - New York and New Jersey, USA area only
+
+  https://nycpokemap.com/
+
+Gen 6:
+
+>> Hawlucha - Mexico
+
+  19.4346432,-99.1427841 (Mexico City, Mexico)
+
+>> Klefki - France only
+
+  48.862865, 2.334973 (Paris, France)
+
+>> Flabébé (Red) - Europe
+
+   41.660655, -0.893784 (Zaragoza, Spain)
+
+>> Flabébé (Yellow) - Americas
+
+   https://nycpokemap.com/ or https://vanpokemap.com/
+
+>> Flabébé (Orange) - Global / Anywhere
+
+   https://nycpokemap.com/
+   https://vanpokemap.com/
+   https://sydneypogomap.com/
+   https://sgpokemap.com/
+
+>> Flabébé (Blue) - Asia
+
+   35.691140, 139.689187 (Tokyo, Japan)
+
+>> Flabébé (White) - Global / Anywhere
+
+   https://nycpokemap.com/
+   https://vanpokemap.com/
+   https://sydneypogomap.com/
+   https://sgpokemap.com/
+
+>> Furfrou (Natural form)
+
+   Only the Natural form can be caught in the wild.
+
+   All other trims require you to teleport to the country
+   then you restart your game in order to change to the
+   trim you want.
+
+>> Furfrou (Heart trim)
+
+   This only available on Valentine's Day (Feburary 14th).
+
+>> Furfrou (Star trim) - Asia-Pacific
+
+   35.691140, 139.689187 (Tokyo, Japan)
+
+>> Furfrou (Diamond trim) - Europe, the Middle East and Africa
+
+   48.862865, 2.334973 (Paris, France)
+
+   32.084063, 34.782007 (Tel Aviv-Yafo, Israel)
+
+  -33.925692, 18.421586 (Cape Town, South Africa)
+
+>> Furfrou (Deputante trim) - the Americas
+
+   37.7956591,-122.394402 (San Francisco, California)
+
+>> Furfrou (Matron trim) - Global / Anywhere
+
+   -77.8401191,166.6445297 (McMurdo Station, Antarctica)
+
+>> Furfrou (Dandy trim) - Global / Anywhere
+
+   -77.8401191,166.6445297 (McMurdo Station, Antarctica)
+
+>> Furfrou (La Reine trim) - France only
+
+   48.862865, 2.334973 (Paris, France)
+
+>> Furfrou (Kabuki trim) - Japan only
+
+   35.691140, 139.689187 (Tokyo, Japan)
+
+>> Furfrou (Pharoah trim) - Egypt only
+
+   30.0596185,31.1884238 (Cairo, Egypt)
+
+
+Gen 7:
+	
+>> Comfey - Hawaii only
+
+   21.3049236,-157.8636981 (Honolulu, Hawaii)
+
+>> Baile Oricorio - Europe
+
+   41.660655, -0.893784 (Zaragoza, Spain)
+
+>> Pa'u Oricorio - Australia
+
+   https://sydneypogomap.com/
+
+>> Pom-Pom Oricorio - North America
+
+   https://nycpokemap.com/
+
+>> Sensu Oricorio - Asia
+
+   35.691140, 139.689187 (Tokyo, Japan)
